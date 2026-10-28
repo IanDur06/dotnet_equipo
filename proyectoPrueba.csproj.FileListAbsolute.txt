@@ -1,7 +1,0 @@
-C:\Users\iadrd\Documents\SharpDevelop Projects\proyectoPrueba\proyectoPrueba\bin\Debug\proyectoPrueba.exe
-C:\Users\iadrd\Documents\SharpDevelop Projects\proyectoPrueba\proyectoPrueba\bin\Debug\proyectoPrueba.pdb
-C:\Users\iadrd\Documents\SharpDevelop Projects\proyectoPrueba\proyectoPrueba\obj\Debug\proyectoPrueba.csprojResolveAssemblyReference.cache
-C:\Users\iadrd\Documents\SharpDevelop Projects\proyectoPrueba\proyectoPrueba\obj\Debug\proyectoPrueba.MainForm.resources
-C:\Users\iadrd\Documents\SharpDevelop Projects\proyectoPrueba\proyectoPrueba\obj\Debug\proyectoPrueba.csproj.GenerateResource.Cache
-C:\Users\iadrd\Documents\SharpDevelop Projects\proyectoPrueba\proyectoPrueba\obj\Debug\proyectoPrueba.exe
-C:\Users\iadrd\Documents\SharpDevelop Projects\proyectoPrueba\proyectoPrueba\obj\Debug\proyectoPrueba.pdb
